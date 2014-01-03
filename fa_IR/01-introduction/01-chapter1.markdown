@@ -1,6 +1,6 @@
-# Getting Started #
+# شروع به کار #
 
-This chapter will be about getting started with Git.  We will begin at the beginning by explaining some background on version control tools, then move on to how to get Git running on your system and finally how to get it setup to start working with.  At the end of this chapter you should understand why Git is around, why you should use it and you should be all setup to do so.
+این فصل درباره‌ی شروع کار با گیت(Git) می‌باشد. از ابتدایی‌ترین مسائل مربوط به ابزار‌های کنترل نسخه(Version Control) شروع کرده، با توضیحی مختصر در رابطه با "گیت" ادامه داده و در نهایت روش نصب و راه‌اندازی یک "گیت" ساده را به شما آموزش می‌دهد. در پایان این فصل شما باید قادر باشید سیستم‌های کنترل نسخه را توضیح داده و یک نسخه‌ی قابل اعتماد بر روی کامپیوتر خود نصب نمایید.
 
 ## About Version Control ##
 
